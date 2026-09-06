@@ -40,12 +40,10 @@ The primary objective of this project is to provide actionable insights into del
 |---|---|
 | **Microsoft Fabric** | Data platform and analytics environment |
 | **PySpark Notebook** | Data cleaning, transformation and data processing |
-| **Apache Spark** | Distributed data processing |
-| **Power BI** | Interactive dashboard and data visualization |
-| **DAX** | KPI calculations, measures and analytical logic |
 | **Semantic Model** | Business-ready data modeling and reporting |
+| **DAX** | KPI calculations, measures and analytical logic |
+| **Power BI** | Interactive dashboard and data visualization |
 | **GitHub** | Project documentation and portfolio management |
-
 
 # 🔄 Project Architecture
 
@@ -58,6 +56,9 @@ Microsoft Fabric
 PySpark Notebook
        ↓
 Data Cleaning & Transformation
+Create Silver/Clean Data
+        ↓
+Prepare Gold Analytical Tables
        ↓
 Cleaned Data
        ↓
@@ -101,6 +102,18 @@ Business Insights & Recommendations
 - Tables
 - Key Influencers
 - Analytical visuals
+
+  # 🏆 Conclusion
+
+- The Delivery Logistics Analysis Dashboard transforms raw delivery information into a business-focused analytics solution.
+
+- By combining Microsoft Fabric, Pyspark Notebook, semantic modeling, DAX, and Power BI, the project provides visibility into delivery cost, distance, vehicle utilization, partner performance, regional operations, delivery modes, customer ratings, and on-time performance.
+
+- The dashboard enables stakeholders to move from:
+
+- Raw Data → Analysis → Insights → Business Decisions
+
+and supports data-driven strategies for improving delivery reliability, operational efficiency, and logistics cost management.
 - 
 # Dashboard
 
